@@ -1,0 +1,456 @@
+[
+  "String entries are comments. You can ignore these.",
+
+  "~~~~~~~~~~~",
+  "bhvAdi-gaNa",
+  "~~~~~~~~~~~",
+
+  {
+    "dhatu": "01.1049",
+    "la": "la~w",
+    "padas": [
+      "nayati", "nayataH", "nayanti",
+      "nayasi", "nayaTaH", "nayaTa",
+      "nayAmi", "nayAvaH", "nayAmaH",
+      "nayate", "nayete", "nayante",
+      "nayase", "nayeTe", "nayaDve",
+      "naye", "nayAvahe", "nayAmahe"]
+  },
+  {
+    "dhatu": "01.1049",
+    "la": "lo~w",
+    "padas": [
+      "nayatu,nayatAt,nayatAd", "nayatAm", "nayantu",
+      "naya,nayatAt,nayatAd", "nayatam", "nayata",
+      "nayAni", "nayAva", "nayAma",
+      "nayatAm", "nayetAm", "nayantAm",
+      "nayasva", "nayeTAm", "nayaDvam",
+      "nayE", "nayAvahE", "nayAmahE"]
+  },
+  {
+    "dhatu": "01.1049",
+    "la": "la~N",
+    "padas": [
+      "anayat,anayad", "anayatAm", "anayan",
+      "anayaH", "anayatam", "anayata",
+      "anayam", "anayAva", "anayAma",
+      "anayatAm", "anayetAm", "anayanta",
+      "anayaTAH", "anayeTAm", "anayaDvam",
+      "anaye", "anayAvahi", "anayAmahi"]
+  },
+  {
+    "dhatu": "01.1049",
+    "la": "li~N",
+    "padas": [
+      "nayet,nayed", "nayetAm", "nayeyuH",
+      "nayeH", "nayetam", "nayeta",
+      "nayeyam", "nayeva", "nayema",
+      "nayeta", "nayeyAtAm", "nayeran",
+      "nayeTAH", "nayeyATAm", "nayeDvam",
+      "nayeya", "nayevahi", "nayemahi"]
+  },
+
+  "~~~~~~~~~~",
+  "adAdi-gaNa",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "02.0003",
+    "la": "la~w",
+    "padas": [
+      "dvezwi", "dvizwaH", "dvizanti",
+      "dvekzi", "dvizWaH", "dvizWa",
+      "dvezmi", "dvizvaH", "dvizmaH",
+      "dvizwe", "dvizAte", "dvizate",
+      "dvikze", "dvizATe", "dviqQve",
+      "dvize", "dvizvahe", "dvizmahe"]
+  },
+  {
+    "dhatu": "02.0003",
+    "la": "lo~w",
+    "padas": [
+      "dvezwu,dvizwAt,dvizwAd", "dvizwAm", "dvizantu",
+      "dviqQi,dvizwAt,dvizwAd", "dvizwam", "dvizwa",
+      "dvezARi", "dvezAva", "dvezAma",
+      "dvizwAm", "dvizAtAm", "dvizatAm",
+      "dvikzva", "dvizATAm", "dviqQvam",
+      "dvezE", "dvezAvahE", "dvezAmahE"]
+  },
+  {
+    "dhatu": "02.0003",
+    "la": "la~N",
+    "padas": [
+      "advew,adveq", "advizwAm", "advizan,advizuH",
+      "advew,adveq", "advizwam", "advizwa",
+      "advezam", "advizva", "advizma",
+      "advizwa", "advizAtAm", "advizata",
+      "advizWAH", "advizATAm", "adviqQvam",
+      "advizi", "advizvahi", "advizmahi"]
+  },
+  {
+    "dhatu": "02.0003",
+    "la": "li~N",
+    "padas": [
+      "dvizyAt,dvizyAd", "dvizyAtAm", "dvizyuH",
+      "dvizyAH", "dvizyAtam", "dvizyAta",
+      "dvizyAm", "dvizyAva", "dvizyAma",
+      "dvizIta", "dvizIyAtAm", "dvizIran",
+      "dvizITAH", "dvizIyATAm", "dvizIDvam",
+      "dvizIya", "dvizIvahi", "dvizImahi"]
+  },
+
+  {
+    "dhatu": "02.0060",
+    "la": "la~w",
+    "padas": [
+      "asti", "staH", "santi",
+      "asi", "sTaH", "sTa",
+      "asmi", "svaH", "smaH"]
+  },
+  {
+    "dhatu": "02.0060",
+    "la": "lo~w",
+    "padas": [
+      "astu,stAt,stAd", "stAm", "santu",
+      "eDi,stAt,stAd", "stam", "sta",
+      "asAni", "asAva", "asAma"]
+  },
+  {
+    "dhatu": "02.0060",
+    "la": "la~N",
+    "padas": [
+      "AsIt,AsId", "AstAm", "Asan",
+      "AsIH", "Astam", "Asta",
+      "Asam", "Asva", "Asma"]
+  },
+  {
+    "dhatu": "02.0060",
+    "la": "li~N",
+    "padas": [
+      "syAt,syAd", "syAtAm", "syuH",
+      "syAH", "syAtam", "syAta",
+      "syAm", "syAva", "syAma"]
+  },
+
+  "~~~~~~~~~~~~~~",
+  "juhotyAdi-gaNa",
+  "~~~~~~~~~~~~~~",
+
+  {
+    "dhatu": "03.0001",
+    "la": "la~w",
+    "padas": [
+      "juhoti", "juhutaH", "juhvati",
+      "juhozi", "juhuTaH", "juhuTa",
+      "juhomi", "juhuvaH", "juhumaH"]
+  },
+  {
+    "dhatu": "03.0001",
+    "la": "lo~w",
+    "padas": [
+      "juhotu,juhutAt,juhutAd", "juhutAm", "juhvatu",
+      "juhuDi,juhutAt,juhutAd", "juhutam", "juhuta",
+      "juhavAni", "juhavAva", "juhavAma"]
+  },
+  {
+    "dhatu": "03.0001",
+    "la": "la~N",
+    "padas": [
+      "ajuhot,ajuhod", "ajuhutAm", "ajuhavuH",
+      "ajuhoH", "ajuhutam", "ajuhuta",
+      "ajuhavam", "ajuhuva", "ajuhuma"]
+  },
+  {
+    "dhatu": "03.0001",
+    "la": "li~N",
+    "padas": [
+      "juhuyAt,juhuyAd", "juhuyAtAm", "juhuyuH",
+      "juhuyAH", "juhuyAtam", "juhuyAta",
+      "juhuyAm", "juhuyAva", "juhuyAma"]
+  },
+
+  {
+    "dhatu": "03.0010",
+    "la": "la~w",
+    "padas": [
+      "dadAti", "dattaH", "dadati",
+      "dadAsi", "datTaH", "datTa",
+      "dadAmi", "dadvaH", "dadmaH",
+      "datte", "dadAte", "dadate",
+      "datse", "dadATe", "dadDve",
+      "dade", "dadvahe", "dadmahe"
+    ]
+  },
+  {
+    "dhatu": "03.0010",
+    "la": "lo~w",
+    "padas": [
+      "dadAtu,dattAt,dattAd", "dattAm", "dadatu",
+      "dehi,dattAt,dattAd", "dattam", "datta",
+      "dadAni", "dadAva", "dadAma",
+      "dattAm", "dadAtAm", "dadatAm",
+      "datsva", "dadATAm", "dadDvam",
+      "dadE", "dadAvahE", "dadAmahE"
+    ]
+  },
+
+
+  "~~~~~~~~~~~",
+  "divAdi-gaNa",
+  "~~~~~~~~~~~",
+
+  {
+    "dhatu": "04.0001",
+    "la": "la~w",
+    "padas": [
+      "dIvyati", "dIvyataH", "dIvyanti",
+      "dIvyasi", "dIvyaTaH", "dIvyaTa",
+      "dIvyAmi", "dIvyAvaH", "dIvyAmaH"]
+  },
+
+  "(Others will be like bhvAdi)",
+
+  "~~~~~~~~~~",
+  "svAdi-gaNa",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "05.0001",
+    "la": "la~w",
+    "padas": [
+      "sunoti", "sunutaH", "sunvanti",
+      "sunozi", "sunuTaH", "sunuTa",
+      "sunomi", "sunuvaH,sunvaH", "sunumaH,sunmaH",
+      "sunute", "sunvAte", "sunvate",
+      "sunuze", "sunvATe", "sunuDve",
+      "sunve", "sunuvahe,sunvahe", "sunumahe,sunmahe"
+    ]
+  },
+  {
+    "dhatu": "05.0001",
+    "la": "lo~w",
+    "padas": [
+      "sunotu,sunutAt,sunutAd", "sunutAm", "sunvantu",
+      "sunu,sunutAt,sunutAd", "sunutam", "sunuta",
+      "sunavAni", "sunavAva", "sunavAma",
+      "sunutAm", "sunvAtAm", "sunvatAm",
+      "sunuzva", "sunvATAm", "sunuDvam",
+      "sunavE", "sunavAvahE", "sunavAmahE"
+    ]
+  },
+  {
+    "dhatu": "05.0001",
+    "la": "la~N",
+    "padas": [
+      "asunot,asunod", "asunutAm", "asunvan",
+      "asunoH", "asunutam", "asunuta",
+      "asunavam", "asunuva,asunva", "asunuma,asunma",
+      "asunuta", "asunvAtAm", "asunvata",
+      "asunuTAH", "asunvATAm", "asunuDvam",
+      "asunvi", "asunuvahi,asunvahi", "asunumahi,asunmahi"
+    ]
+  },
+  {
+    "dhatu": "05.0001",
+    "la": "li~N",
+    "padas": [
+      "sunuyAt,sunuyAd", "sunuyAtAm", "sunuyuH",
+      "sunuyAH", "sunuyAtam", "sunuyAta",
+      "sunuyAm", "sunuyAva", "sunuyAma",
+      "sunvIta", "sunvIyAtAm", "sunvIran",
+      "sunvITAH", "sunvIyATAm", "sunvIDvam",
+      "sunvIya", "sunvIvahi", "sunvImahi"
+    ]
+  },
+
+  "~~~~~~~~~~~",
+  "tudAdi-gaNa",
+  "~~~~~~~~~~~",
+
+  {
+    "dhatu": "06.0001",
+    "la": "la~w",
+    "padas": [
+      "tudati", "tudataH", "tudanti",
+      "tudasi", "tudaTaH", "tudaTa",
+      "tudAmi", "tudAvaH", "tudAmaH",
+      "tudate", "tudete", "tudante",
+      "tudase", "tudeTe", "tudaDve",
+      "tude", "tudAvahe", "tudAmahe"]
+  },
+
+  "(Others will be like bhvAdi)",
+
+  "~~~~~~~~~~~~",
+  "rudhAdi-gaNa",
+  "~~~~~~~~~~~~",
+
+  {
+    "dhatu": "07.0001",
+    "la": "la~w",
+    "padas": [
+      "ruRadDi", "rundDaH,runDaH", "runDanti",
+      "ruRatsi", "rundDaH,runDaH", "rundDa,runDa",
+      "ruRaDmi", "runDvaH", "runDmaH",
+      "rundDe,runDe", "runDAte", "runDate",
+      "runtse", "runDATe", "rundDve,runDve",
+      "runDe", "runDvahe", "runDmahe"]
+  },
+  {
+    "dhatu": "07.0001",
+    "la": "lo~w",
+    "padas": [
+      "ruRadDu,rundDAt,runDAt,rundDAd,runDAd", "rundDAm,runDAm", "runDantu",
+      "rundDi,runDi,rundDAt,runDAt,rundDAd,runDAd", "rundDam,runDam", "rundDa,runDa",
+      "ruRaDAni", "ruRaDAva", "ruRaDAma",
+      "rundDAm,runDAm", "runDAtAm", "runDatAm",
+      "runtsva", "runDATAm", "rundDvam,runDvam",
+      "ruRaDE", "ruRaDAvahE", "ruRaDAmahE"]
+  },
+  {
+    "dhatu": "07.0001",
+    "la": "la~N",
+    "padas": [
+      "aruRat,aruRad", "arunDAm,arundDAm", "arunDan",
+      "aruRaH,aruRat,aruRad", "arunDam,arundDam", "arundDa,arunDa",
+      "aruRaDam", "arunDva", "arunDma",
+      "arundDa,arunDa", "arunDAtAm", "arunData",
+      "arunDAH,arundDAH", "arunDATAm", "arundDvam,arunDvam",
+      "arunDi", "arunDvahi", "arunDmahi"]
+  },
+  {
+    "dhatu": "07.0001",
+    "la": "li~N",
+    "padas": [
+      "runDyAt,runDyAd", "runDyAtAm", "runDyuH",
+      "runDyAH", "runDyAtam", "runDyAta",
+      "runDyAm", "runDyAva", "runDyAma",
+      "runDIta", "runDIyAtAm", "runDIran",
+      "runDITAH", "runDIyATAm", "runDIDvam",
+      "runDIya", "runDIvahi", "runDImahi"]
+  },
+
+  "~~~~~~~~~~~",
+  "tanAdi-gaNa",
+  "~~~~~~~~~~~",
+
+  {
+    "dhatu": "08.0010",
+    "la": "la~w",
+    "padas": [
+      "karoti", "kurutaH", "kurvanti",
+      "karozi", "kuruTaH", "kuruTa",
+      "karomi", "kurvaH", "kurmaH",
+      "kurute", "kurvAte", "kurvate",
+      "kuruze", "kurvATe", "kuruDve",
+      "kurve", "kurvahe", "kurmahe"
+    ]
+  },
+  {
+    "dhatu": "08.0010",
+    "la": "lo~w",
+    "padas": [
+      "karotu,kurutAt,kurutAd", "kurutAm", "kurvantu",
+      "kuru,kurutAt,kurutAd", "kurutam", "kuruta",
+      "karavARi", "karavAva", "karavAma",
+      "kurutAm", "kurvAtAm", "kurvatAm",
+      "kuruzva", "kurvATAm", "kuruDvam",
+      "karavE", "karavAvahE", "karavAmahE"
+    ]
+  },
+  {
+    "dhatu": "08.0010",
+    "la": "la~N",
+    "padas": [
+      "akarot,akarod", "akurutAm", "akurvan",
+      "akaroH", "akurutam", "akuruta",
+      "akaravam", "akurva", "akurma",
+      "akuruta", "akurvAtAm", "akurvata",
+      "akuruTAH", "akurvATAm", "akuruDvam",
+      "akurvi", "akurvahi", "akurmahi"
+    ]
+  },
+  {
+    "dhatu": "08.0010",
+    "la": "li~N",
+    "padas": [
+      "kuryAt,kuryAd", "kuryAtAm", "kuryuH",
+      "kuryAH", "kuryAtam", "kuryAta",
+      "kuryAm", "kuryAva", "kuryAma",
+      "kurvIta", "kurvIyAtAm", "kurvIran",
+      "kurvITAH", "kurvIyATAm", "kurvIDvam",
+      "kurvIya", "kurvIvahi", "kurvImahi"
+    ]
+  },
+
+  "~~~~~~~~~~~",
+  "kryAdi-gaNa",
+  "~~~~~~~~~~~",
+
+  {
+    "dhatu": "09.0001",
+    "la": "la~w",
+    "padas": [
+      "krIRAti", "krIRItaH", "krIRanti",
+      "krIRAsi", "krIRITaH", "krIRITa",
+      "krIRAmi", "krIRIvaH", "krIRImaH",
+      "krIRIte", "krIRAte", "krIRate",
+      "krIRIze", "krIRATe", "krIRIDve",
+      "krIRe", "krIRIvahe", "krIRImahe"
+    ]
+  },
+  {
+    "dhatu": "09.0001",
+    "la": "lo~w",
+    "padas": [
+      "krIRAtu,krIRItAt,krIRItAd", "krIRItAm", "krIRantu",
+      "krIRIhi,krIRItAt,krIRItAd", "krIRItam", "krIRIta",
+      "krIRAni", "krIRAva", "krIRAma",
+      "krIRItAm", "krIRAtAm", "krIRatAm",
+      "krIRIzva", "krIRATAm", "krIRIDvam",
+      "krIRE", "krIRAvahE", "krIRAmahE"
+    ]
+  },
+  {
+    "dhatu": "09.0001",
+    "la": "la~N",
+    "padas": [
+      "akrIRAt,akrIRAd", "akrIRItAm", "akrIRan",
+      "akrIRAH", "akrIRItam", "akrIRIta",
+      "akrIRAm", "akrIRIva", "akrIRIma",
+      "akrIRIta", "akrIRAtAm", "akrIRata",
+      "akrIRITAH", "akrIRATAm", "akrIRIDvam",
+      "akrIRi", "akrIRIvahi", "akrIRImahi"
+    ]
+  },
+  {
+    "dhatu": "09.0001",
+    "la": "li~N",
+    "padas": [
+      "krIRIyAt,krIRIyAd", "krIRIyAtAm", "krIRIyuH",
+      "krIRIyAH", "krIRIyAtam", "krIRIyAta",
+      "krIRIyAm", "krIRIyAva", "krIRIyAma",
+      "krIRIta", "krIRIyAtAm", "krIRIran",
+      "krIRITAH", "krIRIyATAm", "krIRIDvam",
+      "krIRIya", "krIRIvahi", "krIRImahi"
+    ]
+  },
+
+  "~~~~~~~~~~~",
+  "curAdi-gaNa",
+  "~~~~~~~~~~~",
+
+  {
+    "dhatu": "10.0001",
+    "la": "la~w",
+    "padas": [
+      "corayati", "corayataH", "corayanti",
+      "corayasi", "corayaTaH", "corayaTa",
+      "corayAmi", "corayAvaH", "corayAmaH",
+      "corayate", "corayete", "corayante",
+      "corayase", "corayeTe", "corayaDve",
+      "coraye", "corayAvahe", "corayAmahe"]
+  },
+
+  "(Others will be like bhvAdi)"
+]

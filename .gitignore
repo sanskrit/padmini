@@ -1,0 +1,4 @@
+# Auto-generated Sphinx docs
+docs/_build/
+# Test data
+*.xml

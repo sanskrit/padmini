@@ -1,0 +1,170 @@
+[
+  "String entries are comments. You can ignore these.",
+
+  "~~~~~~~~~~",
+  "liw-lakAra",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "01.0218",
+    "la": "li~w",
+    "padas": [
+	  "tataYca", "tataYcatuH", "tataYcuH",
+	  "tataYciTa", "tataYcaTuH", "tataYca",
+	  "tataYca", "tataYciva", "tataYcima"
+    ]
+  },
+
+
+  {
+    "dhatu": "01.0551",
+    "la": "li~w",
+    "padas": [
+      "teye", "teyAte", "teyire",
+      "teyize", "teyATe", "teyiQve,teyiDve",
+      "teye", "teyivahe", "teyimahe"
+    ]
+  },
+
+  {
+    "dhatu": "01.1049",
+    "la": "li~w",
+    "padas": [
+      "ninAya", "ninyatuH", "ninyuH",
+      "nineTa,ninayiTa", "ninyaTuH", "ninya",
+      "ninAya,ninaya", "ninyiva", "ninyima",
+      "ninye", "ninyAte", "ninyire",
+      "ninyize", "ninyATe", "ninyiQve,ninyiDve",
+      "ninye", "ninyivahe", "ninyimahe"]
+  },
+
+  {
+    "dhatu": "05.0017",
+    "la": "li~w",
+    "padas": [
+      "SaSAka", "SekatuH", "SekuH",
+      "SekiTa", "SekaTuH", "Seka",
+      "SaSAka,SaSaka", "Sekiva", "Sekima"
+    ]
+  },
+
+  "~~~~~~~~~~",
+  "luw-lakAra",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "01.1049",
+    "la": "lu~w",
+    "padas": [
+      "netA", "netArO", "netAraH",
+      "netAsi", "netAsTaH", "netAsTa",
+      "netAsmi", "netAsvaH", "netAsmaH",
+      "netA", "netArO", "netAraH",
+      "netAse", "netAsATe", "netADve",
+      "netAhe", "netAsvahe", "netAsmahe"]
+  },
+
+  "~~~~~~~~~~",
+  "lft-lakAra",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "01.1049",
+    "la": "lf~w",
+    "padas": [
+      "nezyati", "nezyataH", "nezyanti",
+      "nezyasi", "nezyaTaH", "nezyaTa",
+      "nezyAmi", "nezyAvaH", "nezyAmaH",
+      "nezyate", "nezyete", "nezyante",
+      "nezyase", "nezyeTe", "nezyaDve",
+      "nezye", "nezyAvahe", "nezyAmahe"]
+  },
+
+  "~~~~~~~~~~~~~~~~",
+  "AzIr-liN-lakAra",
+  "~~~~~~~~~~~~~~~~",
+
+  {
+    "dhatu": "01.0002",
+    "la": "li~N",
+    "tags": ["ashih"],
+    "padas": [
+      "eDizIzwa", "eDizIyAstAm", "eDizIran",
+      "eDizIzWAH", "eDizIyAsTAm", "eDizIDvam",
+      "eDizIya", "eDizIvahi", "eDizImahi"]
+  },
+
+  {
+    "dhatu": "01.1049",
+    "la": "li~N",
+    "tags": ["ashih"],
+    "padas": [
+      "nIyAt,nIyAd", "nIyAstAm", "nIyAsuH",
+      "nIyAH", "nIyAstam", "nIyAsta",
+      "nIyAsam", "nIyAsva", "nIyAsma",
+      "nezIzwa", "nezIyAstAm", "nezIran",
+      "nezIzWAH", "nezIyAsTAm", "nezIQvam",
+      "nezIya", "nezIvahi", "nezImahi"]
+  },
+
+  "~~~~~~~~~~",
+  "luN-lakAra",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "01.0002",
+    "la": "lu~N",
+    "padas": [
+      "EDizwa", "EDizAtAm", "EDizata",
+      "EDizWAH", "EDizATAm", "EDiDvam",
+      "EDizi", "EDizvahi", "EDizmahi"]
+  },
+
+  {
+    "dhatu": "01.1049",
+    "la": "lu~N",
+    "padas": [
+      "anEzIt,anEzId", "anEzwAm", "anEzuH",
+      "anEzIH", "anEzwam", "anEzwa",
+      "anEzam", "anEzva", "anEzma",
+      "anezwa", "anezAtAm", "anezata",
+      "anezWAH", "anezATAm", "aneQvam",
+      "anezi", "anezvahi", "anezmahi"]
+  },
+
+  {
+    "dhatu": "01.1051",
+    "la": "lu~N",
+    "padas": [
+      "aglAsIt,aglAsId", "aglAsizwAm", "aglAsizuH",
+      "aglAsIH", "aglAsizwam", "aglAsizwa",
+      "aglAsizam", "aglAsizva", "aglAsizma"]
+  },
+
+
+  "~~~~~~~~~~",
+  "lfN-lakAra",
+  "~~~~~~~~~~",
+
+  {
+    "dhatu": "01.1049",
+    "la": "lf~N",
+    "padas": [
+      "anezyat,anezyad", "anezyatAm", "anezyan",
+      "anezyaH", "anezyatam", "anezyata",
+      "anezyam", "anezyAva", "anezyAma",
+      "anezyata", "anezyetAm", "anezyanta",
+      "anezyaTAH", "anezyeTAm", "anezyaDvam",
+      "anezye", "anezyAvahi", "anezyAmahi"]
+  },
+
+  {
+    "dhatu": "01.1125",
+    "la": "lf~N",
+    "comment": "check that san-Adi works too",
+    "padas": [
+      "ajugupsizyata", "ajugupsizyetAm", "ajugupsizyanta",
+      "ajugupsizyaTAH", "ajugupsizyeTAm", "ajugupsizyaDvam",
+      "ajugupsizye", "ajugupsizyAvahi", "ajugupsizyAmahi"]
+  }
+]

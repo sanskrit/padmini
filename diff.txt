@@ -1,0 +1,76 @@
+01.1102/01.1102 + ODvam
+01.1102/01.1102 - OQvam
+
+01.1165/01.1165 - SiSuva, SiSuvaTuH, SiSuvatuH, SiSuvima, SiSuviva, SiSuvuH
+
+02.0001/02.0001 + Ada, AdaTuH, AdatuH, AdiTa, Adima, Adiva, AduH, At
+02.0001/02.0001 - AdaH, Adat
+
+02.0002/02.0002 + ahnan, hahi, hnanti, hnantu, jaGanaTuH, jaGanatuH, jaGanima, jaGaniva, jaGanuH
+02.0002/02.0002 - Gnanti, Gnantu, aGnan, jaGna, jaGnaTuH, jaGnatuH, jaGnima, jaGniva, jaGnuH, jahi
+
+02.0039/02.0039 + avakzyanta, bruvItAt, bruvIyAH, bruvIyAm, bruvIyAt, vakzyante
+02.0039/02.0039 - brUyAH, brUyAm, brUyAt, uvakTa
+
+02.0042/02.0042 + aDIyanti, aDIyantu, aDyAayam, aDyEyan, aDyagAam
+02.0042/02.0042 - aDyAyam, aDyagAm
+
+02.0059/02.0059 + aviduH, viveda, vivediTa, vivida, vividaTuH, vividatuH, vividima, vividiva, vividuH
+02.0059/02.0059 - aveH, avidan
+
+02.0061/02.0061 + amAq, amAw
+02.0061/02.0061 - amArjan, amArq, amArw, mArjanti, mArjantu, mArjyAH, mArjyAt, mamArjaTuH, mamArjatuH, mamArjima, mamArjiva, mamArjuH
+
+02.0062/02.0062 + arodiH, arodit, rudiDi
+02.0062/02.0062 - arodaH, arodat, rudihi
+
+02.0063/02.0063 + asvapiH, asvapit, svapiDi
+02.0063/02.0063 - asvapIH, asvapIt, asvapaH, asvapat, svapihi
+
+02.0064/02.0064 + SvasiDi, aSvasiH, aSvasit
+02.0064/02.0064 - Svasihi, aSvaH, aSvasat
+
+02.0066/02.0066 + ajakziH, ajakzit, ajakzizyan, jakziDi
+02.0066/02.0066 - ajakzaH, ajakzat, jakzihi
+
+02.0067/02.0067 + ajAgarizyan, jAgriyAH, jAgriyAsam, jAgriyAsma, jAgriyAstAm, jAgriyAsta, jAgriyAstam, jAgriyAsuH, jAgriyAsva, jAgriyAt, jajAgAra, jajAgara, jajAgariTa, jajAgra, jajAgraTuH, jajAgratuH, jajAgrima, jajAgriva, jajAgruH
+02.0067/02.0067 - ajAgArIH, ajAgArIt, ajAgArizam, ajAgArizma, ajAgArizuH, ajAgArizva, ajAgArizwAm, ajAgArizwa, ajAgArizwam, jAgaryAH, jAgaryAsam, jAgaryAsma, jAgaryAstAm, jAgaryAsta, jAgaryAstam, jAgaryAsuH, jAgaryAsva, jAgaryAt
+
+02.0068/02.0068 + adaridrizyan, daridriyAH, daridriyAm, daridriyAma, daridriyAt, daridriyAtAm, daridriyAta, daridriyAtam, daridriyAva, daridriyuH
+02.0068/02.0068 - daridrIyAH, daridrIyAm, daridrIyAma, daridrIyAt, daridrIyAtAm, daridrIyAta, daridrIyAtam, daridrIyAva, daridrIyuH
+
+02.0070/02.0070 + SAsati, SAsatu, SiDi, aSAsuH, aSizAma, aSizAva, aSizaH, aSizam, aSizan, aSizat, aSizatAm, aSizata, aSizatam
+02.0070/02.0070 - SADi, SAsanti, SAsantu, aSAsIH, aSAsIt, aSAsan, aSAsizam, aSAsizma, aSAsizuH, aSAsizva, aSAsizwAm, aSAsizwa, aSAsizwam, aSAt
+
+02.0073/02.0073 + saDi
+02.0073/02.0073 - asat, sadDi
+
+02.0074/02.0074 + asan, saMsDi, saMsdDi
+02.0074/02.0074 - asant, asantt, sanDi, sanddDi
+
+03.0009/03.0009 + ajahAma, ajahAtAm, ajahAta, ajahAtam, ajahAva, jahATaH, jahAhi, jahAmaH, jahAtAm, jahAtAt, jahAta, jahAtaH, jahAtam, jahAvaH
+03.0009/03.0009 - ajahIma, ajahItAm, ajahIta, ajahItam, ajahIva, jahITa, jahITaH, jahImaH, jahItAm, jahItAt, jahIta, jahItaH, jahItam, jahIvaH
+
+03.0011/03.0011 + DAsyante, aDAsyanta, adadDvam, dadDvam, dadDve
+03.0011/03.0011 - DadDvam, DadDve, aDadDvam
+
+03.0025/03.0025 + ajajaniH, ajajetAm, ajajeta, ajajetam, jAyAH, jAyAsam, jAyAsma, jAyAstAm, jAyAsta, jAyAstam, jAyAsuH, jAyAsva, jAyAt, jajYati, jajanizi, jajeTa, jajeTaH, jajehi, jajetAm, jajetAt, jajeta, jajetaH, jajetam, jajeyAH, jajeyAam, jajeyAma, jajeyAt, jajeyAtAm, jajeyAta, jajeyAtam, jajeyAva, jajeyuH, jeniTa
+03.0025/03.0025 - ajajantAm, ajajanta, ajajantam, jajaMhi, jajaMsi, jajanTa, jajanTaH, jajanati, jajaniTa, jajantAm, jajantAt, jajanta, jajantaH, jajantam
+
+04.0029/04.0029 - didIyiDve
+
+04.0038/04.0038 + EDvam
+04.0038/04.0038 - EQvam
+
+05.0008/05.0008 + avarIQvam
+
+07.0018/07.0018 + tfRIQAt, tfRihyAH, tfRihyAm, tfRihyAt
+07.0018/07.0018 - tfMhyAH, tfMhyAm, tfMhyAt
+
+09.0068/09.0068 + Kavnanti, Kavnantu, aKavnan
+09.0068/09.0068 - Kananti, Kanantu, aKanan
+
+1839 roots match.
+331 roots skipped (known error).
+25 roots do not match.
+299 words do not match.

@@ -1,0 +1,1187 @@
+[
+  "String entries are comments. You can ignore these.",
+
+  "~~~~~~~~~",
+  "pum-linga",
+  "~~~~~~~~~",
+
+  {
+    "stem": "a",
+    "linga": "pum",
+    "padas": [
+        "aH", "O", "AH",
+        "am", "O", "An",
+        "ena", "AByAm", "EH",
+        "Aya", "AByAm", "eByaH",
+        "At/Ad", "AByAm", "eByaH",
+        "asya", "ayoH", "AnAm",
+        "e", "ayoH", "ezu",
+        "a", "O", "AH"
+    ]
+  },
+
+  {
+    "stem": "deva",
+    "linga": "pum",
+    "padas": [
+        "devaH", "devO", "devAH",
+        "devam", "devO", "devAn",
+        "devena", "devAByAm", "devEH",
+        "devAya", "devAByAm", "deveByaH",
+        "devAt/devAd", "devAByAm", "deveByaH",
+        "devasya", "devayoH", "devAnAm",
+        "deve", "devayoH", "devezu",
+        "deva", "devO", "devAH"
+    ]
+  },
+
+  {
+    "stem": "rAma",
+    "linga": "pum",
+    "padas": [
+        "rAmaH", "rAmO", "rAmAH",
+        "rAmam", "rAmO", "rAmAn",
+        "rAmeRa", "rAmAByAm", "rAmEH",
+        "rAmAya", "rAmAByAm", "rAmeByaH",
+        "rAmAt/rAmAd", "rAmAByAm", "rAmeByaH",
+        "rAmasya", "rAmayoH", "rAmARAm",
+        "rAme", "rAmayoH", "rAmezu",
+        "rAma", "rAmO", "rAmAH"
+    ]
+  },
+
+  {
+    "stem": "sarva",
+    "linga": "pum",
+    "padas": [
+        "sarvaH", "sarvO", "sarve",
+        "sarvam", "sarvO", "sarvAn",
+        "sarveRa", "sarvAByAm", "sarvEH",
+        "sarvasmE", "sarvAByAm", "sarveByaH",
+        "sarvasmAt/sarvasmAd", "sarvAByAm", "sarveByaH",
+        "sarvasya", "sarvayoH", "sarvezAm",
+        "sarvasmin", "sarvayoH", "sarvezu",
+        "sarva", "sarvO", "sarve"
+    ]
+  },
+
+  {
+    "stem": "viSva",
+    "linga": "pum",
+    "padas": [
+        "viSvaH", "viSvO", "viSve",
+        "viSvam", "viSvO", "viSvAn",
+        "viSvena", "viSvAByAm", "viSvEH",
+        "viSvasmE", "viSvAByAm", "viSveByaH",
+        "viSvasmAt/viSvasmAd", "viSvAByAm", "viSveByaH",
+        "viSvasya", "viSvayoH", "viSvezAm",
+        "viSvasmin", "viSvayoH", "viSvezu",
+        "viSva", "viSvO", "viSve"
+    ]
+  },
+
+  {
+    "stem": "katara",
+    "tags": ["qatara"],
+    "linga": "pum",
+    "padas": [
+        "kataraH", "katarO", "katare",
+        "kataram", "katarO", "katarAn",
+        "katareRa", "katarAByAm", "katarEH",
+        "katarasmE", "katarAByAm", "katareByaH",
+        "katarasmAt/katarasmAd", "katarAByAm", "katareByaH",
+        "katarasya", "katarayoH", "katarezAm",
+        "katarasmin", "katarayoH", "katarezu",
+        "katara", "katarO", "katare"
+    ]
+  },
+
+  {
+    "stem": "yatara",
+    "tags": ["qatara"],
+    "linga": "pum",
+    "padas": [
+        "yataraH", "yatarO", "yatare",
+        "yataram", "yatarO", "yatarAn",
+        "yatareRa", "yatarAByAm", "yatarEH",
+        "yatarasmE", "yatarAByAm", "yatareByaH",
+        "yatarasmAt/yatarasmAd", "yatarAByAm", "yatareByaH",
+        "yatarasya", "yatarayoH", "yatarezAm",
+        "yatarasmin", "yatarayoH", "yatarezu",
+        "yatara", "yatarO", "yatare"
+    ]
+  },
+
+  {
+    "stem": "tatara",
+    "tags": ["qatara"],
+    "linga": "pum",
+    "padas": [
+        "tataraH", "tatarO", "tatare",
+        "tataram", "tatarO", "tatarAn",
+        "tatareRa", "tatarAByAm", "tatarEH",
+        "tatarasmE", "tatarAByAm", "tatareByaH",
+        "tatarasmAt/tatarasmAd", "tatarAByAm", "tatareByaH",
+        "tatarasya", "tatarayoH", "tatarezAm",
+        "tatarasmin", "tatarayoH", "tatarezu",
+        "tatara", "tatarO", "tatare"
+    ]
+  },
+
+  {
+    "stem": "ekatara",
+    "tags": ["qatara"],
+    "linga": "pum",
+    "padas": [
+        "ekataraH", "ekatarO", "ekatare",
+        "ekataram", "ekatarO", "ekatarAn",
+        "ekatareRa", "ekatarAByAm", "ekatarEH",
+        "ekatarasmE", "ekatarAByAm", "ekatareByaH",
+        "ekatarasmAt/ekatarasmAd", "ekatarAByAm", "ekatareByaH",
+        "ekatarasya", "ekatarayoH", "ekatarezAm",
+        "ekatarasmin", "ekatarayoH", "ekatarezu",
+        "ekatara", "ekatarO", "ekatare"
+    ]
+  },
+
+  {
+    "stem": "katama",
+    "tags": ["qatama"],
+    "linga": "pum",
+    "padas": [
+        "katamaH", "katamO", "katame",
+        "katamam", "katamO", "katamAn",
+        "katamena", "katamAByAm", "katamEH",
+        "katamasmE", "katamAByAm", "katameByaH",
+        "katamasmAt/katamasmAd", "katamAByAm", "katameByaH",
+        "katamasya", "katamayoH", "katamezAm",
+        "katamasmin", "katamayoH", "katamezu",
+        "katama", "katamO", "katame"
+    ]
+  },
+
+  {
+    "stem": "yatama",
+    "tags": ["qatama"],
+    "linga": "pum",
+    "padas": [
+        "yatamaH", "yatamO", "yatame",
+        "yatamam", "yatamO", "yatamAn",
+        "yatamena", "yatamAByAm", "yatamEH",
+        "yatamasmE", "yatamAByAm", "yatameByaH",
+        "yatamasmAt/yatamasmAd", "yatamAByAm", "yatameByaH",
+        "yatamasya", "yatamayoH", "yatamezAm",
+        "yatamasmin", "yatamayoH", "yatamezu",
+        "yatama", "yatamO", "yatame"
+    ]
+  },
+
+  {
+    "stem": "tatama",
+    "tags": ["qatama"],
+    "linga": "pum",
+    "padas": [
+        "tatamaH", "tatamO", "tatame",
+        "tatamam", "tatamO", "tatamAn",
+        "tatamena", "tatamAByAm", "tatamEH",
+        "tatamasmE", "tatamAByAm", "tatameByaH",
+        "tatamasmAt/tatamasmAd", "tatamAByAm", "tatameByaH",
+        "tatamasya", "tatamayoH", "tatamezAm",
+        "tatamasmin", "tatamayoH", "tatamezu",
+        "tatama", "tatamO", "tatame"
+    ]
+  },
+
+  {
+    "stem": "ekatama",
+    "tags": ["qatama"],
+    "linga": "pum",
+    "padas": [
+        "ekatamaH", "ekatamO", "ekatame",
+        "ekatamam", "ekatamO", "ekatamAn",
+        "ekatamena", "ekatamAByAm", "ekatamEH",
+        "ekatamasmE", "ekatamAByAm", "ekatameByaH",
+        "ekatamasmAt/ekatamasmAd", "ekatamAByAm", "ekatameByaH",
+        "ekatamasya", "ekatamayoH", "ekatamezAm",
+        "ekatamasmin", "ekatamayoH", "ekatamezu",
+        "ekatama", "ekatamO", "ekatame"
+    ]
+  },
+
+  {
+    "stem": "anya",
+    "linga": "pum",
+    "padas": [
+        "anyaH", "anyO", "anye",
+        "anyam", "anyO", "anyAn",
+        "anyena", "anyAByAm", "anyEH",
+        "anyasmE", "anyAByAm", "anyeByaH",
+        "anyasmAt/anyasmAd", "anyAByAm", "anyeByaH",
+        "anyasya", "anyayoH", "anyezAm",
+        "anyasmin", "anyayoH", "anyezu",
+        "anya", "anyO", "anye"
+    ]
+  },
+
+  {
+    "stem": "itara",
+    "linga": "pum",
+    "padas": [
+        "itaraH", "itarO", "itare",
+        "itaram", "itarO", "itarAn",
+        "itareRa", "itarAByAm", "itarEH",
+        "itarasmE", "itarAByAm", "itareByaH",
+        "itarasmAt/itarasmAd", "itarAByAm", "itareByaH",
+        "itarasya", "itarayoH", "itarezAm",
+        "itarasmin", "itarayoH", "itarezu",
+        "itara", "itarO", "itare"
+    ]
+  },
+
+  {
+    "stem": "pUrva",
+    "linga": "pum",
+    "padas": [
+        "pUrvaH", "pUrvO", "pUrve/pUrvAH",
+        "pUrvam", "pUrvO", "pUrvAn",
+        "pUrveRa", "pUrvAByAm", "pUrvEH",
+        "pUrvasmE", "pUrvAByAm", "pUrveByaH",
+        "pUrvasmAt/pUrvasmAd/pUrvAt/pUrvAd", "pUrvAByAm", "pUrveByaH",
+        "pUrvasya", "pUrvayoH", "pUrvezAm",
+        "pUrvasmin/pUrve", "pUrvayoH", "pUrvezu",
+        "pUrva", "pUrvO", "pUrve/pUrvAH"
+    ]
+  },
+
+  {
+    "stem": "para",
+    "linga": "pum",
+    "padas": [
+        "paraH", "parO", "pare/parAH",
+        "param", "parO", "parAn",
+        "pareRa", "parAByAm", "parEH",
+        "parasmE", "parAByAm", "pareByaH",
+        "parasmAt/parasmAd/parAt/parAd", "parAByAm", "pareByaH",
+        "parasya", "parayoH", "parezAm",
+        "parasmin/pare", "parayoH", "parezu",
+        "para", "parO", "pare/parAH"
+    ]
+  },
+
+  {
+    "stem": "avara",
+    "linga": "pum",
+    "padas": [
+        "avaraH", "avarO", "avare/avarAH",
+        "avaram", "avarO", "avarAn",
+        "avareRa", "avarAByAm", "avarEH",
+        "avarasmE", "avarAByAm", "avareByaH",
+        "avarasmAt/avarasmAd/avarAt/avarAd", "avarAByAm", "avareByaH",
+        "avarasya", "avarayoH", "avarezAm",
+        "avarasmin/avare", "avarayoH", "avarezu",
+        "avara", "avarO", "avare/avarAH"
+    ]
+  },
+
+  {
+    "stem": "dakziRa",
+    "linga": "pum",
+    "padas": [
+        "dakziRaH", "dakziRO", "dakziRe/dakziRAH",
+        "dakziRam", "dakziRO", "dakziRAn",
+        "dakziRena", "dakziRAByAm", "dakziREH",
+        "dakziRasmE", "dakziRAByAm", "dakziReByaH",
+        "dakziRasmAt/dakziRasmAd/dakziRAt/dakziRAd", "dakziRAByAm", "dakziReByaH",
+        "dakziRasya", "dakziRayoH", "dakziRezAm",
+        "dakziRasmin/dakziRe", "dakziRayoH", "dakziRezu",
+        "dakziRa", "dakziRO", "dakziRe/dakziRAH"
+    ]
+  },
+
+  {
+    "stem": "uttara",
+    "linga": "pum",
+    "padas": [
+        "uttaraH", "uttarO", "uttare/uttarAH",
+        "uttaram", "uttarO", "uttarAn",
+        "uttareRa", "uttarAByAm", "uttarEH",
+        "uttarasmE", "uttarAByAm", "uttareByaH",
+        "uttarasmAt/uttarasmAd/uttarAt/uttarAd", "uttarAByAm", "uttareByaH",
+        "uttarasya", "uttarayoH", "uttarezAm",
+        "uttarasmin/uttare", "uttarayoH", "uttarezu",
+        "uttara", "uttarO", "uttare/uttarAH"
+    ]
+  },
+
+  {
+    "stem": "apara",
+    "linga": "pum",
+    "padas": [
+        "aparaH", "aparO", "apare/aparAH",
+        "aparam", "aparO", "aparAn",
+        "apareRa", "aparAByAm", "aparEH",
+        "aparasmE", "aparAByAm", "apareByaH",
+        "aparasmAt/aparasmAd/aparAt/aparAd", "aparAByAm", "apareByaH",
+        "aparasya", "aparayoH", "aparezAm",
+        "aparasmin/apare", "aparayoH", "aparezu",
+        "apara", "aparO", "apare/aparAH"
+    ]
+  },
+
+  {
+    "stem": "aDara",
+    "linga": "pum",
+    "padas": [
+        "aDaraH", "aDarO", "aDare/aDarAH",
+        "aDaram", "aDarO", "aDarAn",
+        "aDareRa", "aDarAByAm", "aDarEH",
+        "aDarasmE", "aDarAByAm", "aDareByaH",
+        "aDarasmAt/aDarasmAd/aDarAt/aDarAd", "aDarAByAm", "aDareByaH",
+        "aDarasya", "aDarayoH", "aDarezAm",
+        "aDarasmin/aDare", "aDarayoH", "aDarezu",
+        "aDara", "aDarO", "aDare/aDarAH"
+    ]
+  },
+
+  {
+    "stem": "sva",
+    "linga": "pum",
+    "padas": [
+        "svaH", "svO", "sve/svAH",
+        "svam", "svO", "svAn",
+        "svena", "svAByAm", "svEH",
+        "svasmE", "svAByAm", "sveByaH",
+        "svasmAt/svasmAd/svAt/svAd", "svAByAm", "sveByaH",
+        "svasya", "svayoH", "svezAm",
+        "svasmin/sve", "svayoH", "svezu",
+        "sva", "svO", "sve/svAH"
+    ]
+  },
+
+  {
+    "stem": "antara",
+    "linga": "pum",
+    "padas": [
+        "antaraH", "antarO", "antare/antarAH",
+        "antaram", "antarO", "antarAn",
+        "antareRa", "antarAByAm", "antarEH",
+        "antarasmE", "antarAByAm", "antareByaH",
+        "antarasmAt/antarasmAd/antarAt/antarAd", "antarAByAm", "antareByaH",
+        "antarasya", "antarayoH", "antarezAm",
+        "antarasmin/antare", "antarayoH", "antarezu",
+        "antara", "antarO", "antare/antarAH"
+    ]
+  },
+
+  {
+    "stem": "praTama",
+    "linga": "pum",
+    "padas": [
+        "praTamaH", "praTamO", "praTame/praTamAH",
+        "praTamam", "praTamO", "praTamAn",
+        "praTamena", "praTamAByAm", "praTamEH",
+        "praTamAya", "praTamAByAm", "praTameByaH",
+        "praTamAt/praTamAd", "praTamAByAm", "praTameByaH",
+        "praTamasya", "praTamayoH", "praTamAnAm",
+        "praTame", "praTamayoH", "praTamezu",
+        "praTama", "praTamO", "praTame/praTamAH"
+    ]
+  },
+
+  {
+    "stem": "carama",
+    "linga": "pum",
+    "padas": [
+        "caramaH", "caramO", "carame/caramAH",
+        "caramam", "caramO", "caramAn",
+        "carameRa", "caramAByAm", "caramEH",
+        "caramAya", "caramAByAm", "carameByaH",
+        "caramAt/caramAd", "caramAByAm", "carameByaH",
+        "caramasya", "caramayoH", "caramARAm",
+        "carame", "caramayoH", "caramezu",
+        "carama", "caramO", "carame/caramAH"
+    ]
+  },
+
+  {
+    "stem": "alpa",
+    "linga": "pum",
+    "padas": [
+        "alpaH", "alpO", "alpe/alpAH",
+        "alpam", "alpO", "alpAn",
+        "alpena", "alpAByAm", "alpEH",
+        "alpAya", "alpAByAm", "alpeByaH",
+        "alpAt/alpAd", "alpAByAm", "alpeByaH",
+        "alpasya", "alpayoH", "alpAnAm",
+        "alpe", "alpayoH", "alpezu",
+        "alpa", "alpO", "alpe/alpAH"
+    ]
+  },
+
+  {
+    "stem": "arDa",
+    "linga": "pum",
+    "padas": [
+        "arDaH", "arDO", "arDe/arDAH",
+        "arDam", "arDO", "arDAn",
+        "arDena", "arDAByAm", "arDEH",
+        "arDAya", "arDAByAm", "arDeByaH",
+        "arDAt/arDAd", "arDAByAm", "arDeByaH",
+        "arDasya", "arDayoH", "arDAnAm",
+        "arDe", "arDayoH", "arDezu",
+        "arDa", "arDO", "arDe/arDAH"
+    ]
+  },
+
+  {
+    "stem": "katipaya",
+    "linga": "pum",
+    "padas": [
+        "katipayaH", "katipayO", "katipaye/katipayAH",
+        "katipayam", "katipayO", "katipayAn",
+        "katipayena", "katipayAByAm", "katipayEH",
+        "katipayAya", "katipayAByAm", "katipayeByaH",
+        "katipayAt/katipayAd", "katipayAByAm", "katipayeByaH",
+        "katipayasya", "katipayayoH", "katipayAnAm",
+        "katipaye", "katipayayoH", "katipayezu",
+        "katipaya", "katipayO", "katipaye/katipayAH"
+    ]
+  },
+
+  {
+    "stem": "viSvapA",
+    "terms": ["viSva", "pA/dhatu"],
+    "linga": "pum",
+    "padas": [
+        "viSvapAH", "viSvapO", "viSvapAH",
+        "viSvapAm", "viSvapO", "viSvapaH",
+        "viSvapA", "viSvapAByAm", "viSvapABiH",
+        "viSvape", "viSvapAByAm", "viSvapAByaH",
+        "viSvapaH", "viSvapAByAm", "viSvapAByaH",
+        "viSvapaH", "viSvapoH", "viSvapAm",
+        "viSvapi", "viSvapoH", "viSvapAsu",
+        "viSvapAH", "viSvapO", "viSvapAH"
+    ]
+  },
+
+  {
+    "stem": "hAhA",
+    "linga": "pum",
+    "padas": [
+        "hAhAH", "hAhO", "hAhAH",
+        "hAhAm", "hAhO", "hAhAn",
+        "hAhA", "hAhAByAm", "hAhABiH",
+        "hAhE", "hAhAByAm", "hAhAByaH",
+        "hAhAH", "hAhAByAm", "hAhAByaH",
+        "hAhAH", "hAhOH", "hAhAm",
+        "hAhe", "hAhOH", "hAhAsu",
+        "hAhAH", "hAhO", "hAhAH"
+    ]
+  },
+
+  {
+    "stem": "i",
+    "linga": "pum",
+    "padas": [
+        "iH", "I", "ayaH",
+        "im", "I", "In",
+        "inA", "iByAm", "iBiH",
+        "aye", "iByAm", "iByaH",
+        "eH", "iByAm", "iByaH",
+        "eH", "yoH", "InAm",
+        "O", "yoH", "izu",
+        "e", "I", "ayaH"
+    ]
+  },
+
+  {
+    "stem": "kavi",
+    "linga": "pum",
+    "padas": [
+        "kaviH", "kavI", "kavayaH",
+        "kavim", "kavI", "kavIn",
+        "kavinA", "kaviByAm", "kaviBiH",
+        "kavaye", "kaviByAm", "kaviByaH",
+        "kaveH", "kaviByAm", "kaviByaH",
+        "kaveH", "kavyoH", "kavInAm",
+        "kavO", "kavyoH", "kavizu",
+        "kave", "kavI", "kavayaH"
+    ]
+  },
+
+  {
+    "stem": "hari",
+    "linga": "pum",
+    "padas": [
+        "hariH", "harI", "harayaH",
+        "harim", "harI", "harIn",
+        "hariRA", "hariByAm", "hariBiH",
+        "haraye", "hariByAm", "hariByaH",
+        "hareH", "hariByAm", "hariByaH",
+        "hareH", "haryoH", "harIRAm",
+        "harO", "haryoH", "harizu",
+        "hare", "harI", "harayaH"
+    ]
+  },
+
+  {
+    "stem": "saKi",
+    "linga": "pum",
+    "padas": [
+        "saKA", "saKAyO", "saKAyaH",
+        "saKAyam", "saKAyO", "saKIn",
+        "saKyA", "saKiByAm", "saKiBiH",
+        "saKye", "saKiByAm", "saKiByaH",
+        "saKyuH", "saKiByAm", "saKiByaH",
+        "saKyuH", "saKyoH", "saKInAm",
+        "saKyO", "saKyoH", "saKizu",
+        "saKe", "saKAyO", "saKAyaH"
+    ]
+  },
+
+  {
+    "stem": "susaKi",
+    "linga": "pum",
+    "padas": [
+        "susaKA", "susaKAyO", "susaKAyaH",
+        "susaKAyam", "susaKAyO", "susaKIn",
+        "susaKinA", "susaKiByAm", "susaKiBiH",
+        "susaKaye", "susaKiByAm", "susaKiByaH",
+        "susaKeH", "susaKiByAm", "susaKiByaH",
+        "susaKeH", "susaKyoH", "susaKInAm",
+        "susaKO", "susaKyoH", "susaKizu",
+        "susaKe", "susaKAyO", "susaKAyaH"
+    ]
+  },
+
+  {
+    "stem": "pati",
+    "linga": "pum",
+    "padas": [
+        "patiH", "patI", "patayaH",
+        "patim", "patI", "patIn",
+        "patyA", "patiByAm", "patiBiH",
+        "patye", "patiByAm", "patiByaH",
+        "patyuH", "patiByAm", "patiByaH",
+        "patyuH", "patyoH", "patInAm",
+        "patyO", "patyoH", "patizu",
+        "pate", "patI", "patAyaH"
+    ]
+  },
+
+  {
+    "stem": "BUpati",
+    "linga": "pum",
+    "padas": [
+        "BUpatiH", "BUpatI", "BUpatayaH",
+        "BUpatim", "BUpatI", "BUpatIn",
+        "BUpatinA", "BUpatiByAm", "BUpatiBiH",
+        "BUpataye", "BUpatiByAm", "BUpatiByaH",
+        "BUpateH", "BUpatiByAm", "BUpatiByaH",
+        "BUpateH", "BUpatyoH", "BUpatInAm",
+        "BUpatO", "BUpatyoH", "BUpatizu",
+        "BUpate", "BUpatI", "BUpatayaH"
+    ]
+  },
+
+  {
+    "stem": "papI",
+    "linga": "pum",
+    "padas": [
+        "papIH", "papyO", "papyaH",
+        "papIm", "papyO", "papIn",
+        "papyA", "papIByAm", "papIBiH",
+        "papye", "papIByAm", "papIByaH",
+        "papyaH", "papIByAm", "papIByaH",
+        "papyaH", "papyoH", "papyAm",
+        "papI", "papyoH", "papIzu",
+        "papIH", "papyO", "papyaH"
+    ]
+  },
+
+  {
+    "stem": "yayI",
+    "linga": "pum",
+    "padas": [
+        "yayIH", "yayyO", "yayyaH",
+        "yayIm", "yayyO", "yayIn",
+        "yayyA", "yayIByAm", "yayIBiH",
+        "yayye", "yayIByAm", "yayIByaH",
+        "yayyaH", "yayIByAm", "yayIByaH",
+        "yayyaH", "yayyoH", "yayyAm",
+        "yayI", "yayyoH", "yayIzu",
+        "yayIH", "yayyO", "yayyaH"
+    ]
+  },
+
+  {
+    "stem": "praDI",
+    "linga": "pum",
+    "padas": [
+        "praDIH", "praDyO", "praDyaH",
+        "praDIm", "praDyO", "praDIn",
+        "praDyA", "praDIByAm", "praDIBiH",
+        "praDye", "praDIByAm", "praDIByaH",
+        "praDyaH", "praDIByAm", "praDIByaH",
+        "praDyaH", "praDyoH", "praDyAm",
+        "praDI", "praDyoH", "praDIzu",
+        "praDIH", "praDyO", "praDyaH"
+    ]
+  },
+
+  {
+    "stem": "u",
+    "linga": "pum",
+    "padas": [
+        "uH", "U", "avaH",
+        "um", "U", "Un",
+        "unA", "uByAm", "uBiH",
+        "ave", "uByAm", "uByaH",
+        "oH", "uByAm", "uByaH",
+        "oH", "voH", "UnAm",
+        "O", "voH", "uzu",
+        "o", "U", "avaH"
+    ]
+  },
+
+  {
+    "stem": "SamBu",
+    "linga": "pum",
+    "padas": [
+        "SamBuH", "SamBU", "SamBavaH",
+        "SamBum", "SamBU", "SamBUn",
+        "SamBunA", "SamBuByAm", "SamBuBiH",
+        "SamBave", "SamBuByAm", "SamBuByaH",
+        "SamBoH", "SamBuByAm", "SamBuByaH",
+        "SamBoH", "SamBvoH", "SamBUnAm",
+        "SamBO", "SamBvoH", "SamBuzu",
+        "SamBo", "SamBU", "SamBavaH"
+    ]
+  },
+
+  {
+    "stem": "guru",
+    "linga": "pum",
+    "padas": [
+        "guruH", "gurU", "guravaH",
+        "gurum", "gurU", "gurUn",
+        "guruRA", "guruByAm", "guruBiH",
+        "gurave", "guruByAm", "guruByaH",
+        "guroH", "guruByAm", "guruByaH",
+        "guroH", "gurvoH", "gurURAm",
+        "gurO", "gurvoH", "guruzu",
+        "guro", "gurU", "guravaH"
+    ]
+  },
+
+  {
+    "stem": "hUhU",
+    "linga": "pum",
+    "padas": [
+        "hUhUH", "hUhvO", "hUhvaH",
+        "hUhUm", "hUhvO", "hUhUn",
+        "hUhvA", "hUhUByAm", "hUhUBiH",
+        "hUhve", "hUhUByAm", "hUhUByaH",
+        "hUhvaH", "hUhUByAm", "hUhUByaH",
+        "hUhvaH", "hUhvoH", "hUhvAm",
+        "hUhvi", "hUhvoH", "hUhUzu",
+        "hUhUH", "hUhvO", "hUhvaH"
+    ]
+  },
+
+  {
+    "stem": "aticamU",
+    "linga": "pum",
+    "padas": [
+        "aticamUH", "aticamvO", "aticamvaH",
+        "aticamUm", "aticamvO", "aticamUn",
+        "aticamvA", "aticamUByAm", "aticamUBiH",
+        "aticamve", "aticamUByAm", "aticamUByaH",
+        "aticamvaH", "aticamUByAm", "aticamUByaH",
+        "aticamvaH", "aticamvoH", "aticamvAm",
+        "aticamvi", "aticamvoH", "aticamUzu",
+        "aticamUH", "aticamvO", "aticamvaH"
+    ]
+  },
+
+  {
+    "stem": "KalapU",
+    "linga": "pum",
+    "padas": [
+        "KalapUH", "KalapvO", "KalapvaH",
+        "KalapUm", "KalapvO", "KalapUn",
+        "KalapvA", "KalapUByAm", "KalapUBiH",
+        "Kalapve", "KalapUByAm", "KalapUByaH",
+        "KalapvaH", "KalapUByAm", "KalapUByaH",
+        "KalapvaH", "KalapvoH", "KalapvAm",
+        "Kalapvi", "KalapvoH", "KalapUzu",
+        "KalapUH", "KalapvO", "KalapvaH"
+    ]
+  },
+
+  {
+    "stem": "varzaBU",
+    "linga": "pum",
+    "padas": [
+        "varzaBUH", "varzaBvO", "varzaBvaH",
+        "varzaBUm", "varzaBvO", "varzaBUn",
+        "varzaBvA", "varzaBUByAm", "varzaBUBiH",
+        "varzaBve", "varzaBUByAm", "varzaBUByaH",
+        "varzaBvaH", "varzaBUByAm", "varzaBUByaH",
+        "varzaBvaH", "varzaBvoH", "varzaBvAm",
+        "varzaBvi", "varzaBvoH", "varzaBUzu",
+        "varzaBUH", "varzaBvO", "varzaBvaH"
+    ]
+  },
+
+  {
+    "stem": "DAtf",
+    "linga": "pum",
+    "padas": [
+        "DAtA", "DAtArO", "DAtAraH",
+        "DAtAram", "DAtArO", "DAtFn",
+        "DAtrA", "DAtfByAm", "DAtfBiH",
+        "DAtre", "DAtfByAm", "DAtfByaH",
+        "DAtuH", "DAtfByAm", "DAtfByaH",
+        "DAtuH", "DAtroH", "DAtFRAm",
+        "DAtari", "DAtroH", "DAtfzu",
+        "DAtaH", "DAtArO", "DAtAraH"
+    ]
+  },
+
+  {
+    "stem": "pitf",
+    "linga": "pum",
+    "padas": [
+        "pitA", "pitarO", "pitaraH",
+        "pitaram", "pitarO", "pitFn",
+        "pitrA", "pitfByAm", "pitfBiH",
+        "pitre", "pitfByAm", "pitfByaH",
+        "pituH", "pitfByAm", "pitfByaH",
+        "pituH", "pitroH", "pitFRAm",
+        "pitari", "pitroH", "pitfzu",
+        "pitaH", "pitarO", "pitaraH"
+    ]
+  },
+
+  {
+    "stem": "jAmAtf",
+    "linga": "pum",
+    "padas": [
+        "jAmAtA", "jAmAtarO", "jAmAtaraH",
+        "jAmAtaram", "jAmAtarO", "jAmAtFn",
+        "jAmAtrA", "jAmAtfByAm", "jAmAtfBiH",
+        "jAmAtre", "jAmAtfByAm", "jAmAtfByaH",
+        "jAmAtuH", "jAmAtfByAm", "jAmAtfByaH",
+        "jAmAtuH", "jAmAtroH", "jAmAtFRAm",
+        "jAmAtari", "jAmAtroH", "jAmAtfzu",
+        "jAmAtaH", "jAmAtarO", "jAmAtaraH"
+    ]
+  },
+
+  {
+    "stem": "BrAtf",
+    "linga": "pum",
+    "padas": [
+        "BrAtA", "BrAtarO", "BrAtaraH",
+        "BrAtaram", "BrAtarO", "BrAtFn",
+        "BrAtrA", "BrAtfByAm", "BrAtfBiH",
+        "BrAtre", "BrAtfByAm", "BrAtfByaH",
+        "BrAtuH", "BrAtfByAm", "BrAtfByaH",
+        "BrAtuH", "BrAtroH", "BrAtFRAm",
+        "BrAtari", "BrAtroH", "BrAtfzu",
+        "BrAtaH", "BrAtarO", "BrAtaraH"
+    ]
+  },
+
+  {
+    "stem": "se",
+    "linga": "pum",
+    "padas": [
+        "seH", "sayO", "sayaH",
+        "sayam", "sayO", "sayaH",
+        "sayA", "seByAm", "seBiH",
+        "saye", "seByAm", "seByaH",
+        "seH", "seByAm", "seByaH",
+        "seH", "sayoH", "sayAm",
+        "sayi", "sayoH", "sezu",
+        "se", "sayO", "sayaH"
+    ]
+  },
+
+  {
+    "stem": "smfte",
+    "linga": "pum",
+    "padas": [
+        "smfteH", "smftayO", "smftayaH",
+        "smftayam", "smftayO", "smftayaH",
+        "smftayA", "smfteByAm", "smfteBiH",
+        "smftaye", "smfteByAm", "smfteByaH",
+        "smfteH", "smfteByAm", "smfteByaH",
+        "smfteH", "smftayoH", "smftayAm",
+        "smftayi", "smftayoH", "smftezu",
+        "smfte", "smftayO", "smftayaH"
+    ]
+  },
+
+  {
+    "stem": "go",
+    "linga": "pum",
+    "padas": [
+        "gOH", "gAvO", "gAvaH",
+        "gAm", "gAvO", "gAH",
+        "gavA", "goByAm", "goBiH",
+        "gave", "goByAm", "goByaH",
+        "goH", "goByAm", "goByaH",
+        "goH", "gavoH", "gavAm",
+        "gavi", "gavoH", "gozu",
+        "gOH", "gAvO", "gAvaH"
+    ]
+  },
+
+  {
+    "stem": "rE",
+    "linga": "pum",
+    "padas": [
+        "rAH", "rAyO", "rAyaH",
+        "rAyam", "rAyO", "rAyaH",
+        "rAyA", "rAByAm", "rABiH",
+        "rAye", "rAByAm", "rAByaH",
+        "rAyaH", "rAByAm", "rAByaH",
+        "rAyaH", "rAyoH", "rAyAm",
+        "rAyi", "rAyoH", "rAsu",
+        "rAH", "rAyO", "rAyaH"
+    ]
+  },
+
+  {
+    "stem": "glO",
+    "linga": "pum",
+    "padas": [
+        "glOH", "glAvO", "glAvaH",
+        "glAvam", "glAvO", "glAvaH",
+        "glAvA", "glOByAm", "glOBiH",
+        "glAve", "glOByAm", "glOByaH",
+        "glAvaH", "glOByAm", "glOByaH",
+        "glAvaH", "glAvoH", "glAvAm",
+        "glAvi", "glAvoH", "glOzu",
+        "glOH", "glAvO", "glAvaH"
+    ]
+  },
+
+  {
+    "stem": "janO",
+    "linga": "pum",
+    "padas": [
+        "janOH", "janAvO", "janAvaH",
+        "janAvam", "janAvO", "janAvaH",
+        "janAvA", "janOByAm", "janOBiH",
+        "janAve", "janOByAm", "janOByaH",
+        "janAvaH", "janOByAm", "janOByaH",
+        "janAvaH", "janAvoH", "janAvAm",
+        "janAvi", "janAvoH", "janOzu",
+        "janOH", "janAvO", "janAvaH"
+    ]
+  },
+
+  "~~~~~~~~~~",
+  "strI-linga",
+  "~~~~~~~~~~",
+
+  {
+    "stem": "mAlA",
+    "tags": ["Ap"],
+    "linga": "strI",
+    "padas": [
+        "mAlA", "mAle", "mAlAH",
+        "mAlAm", "mAle", "mAlAH",
+        "mAlayA", "mAlAByAm", "mAlABiH",
+        "mAlAyE", "mAlAByAm", "mAlAByaH",
+        "mAlAyAH", "mAlAByAm", "mAlAByaH",
+        "mAlAyAH", "mAlayoH", "mAlAnAm",
+        "mAlAyAm", "mAlayoH", "mAlAsu",
+        "mAle", "mAle", "mAlAH"
+    ]
+  },
+
+  {
+    "stem": "ramA",
+    "tags": ["Ap"],
+    "linga": "strI",
+    "padas": [
+        "ramA", "rame", "ramAH",
+        "ramAm", "rame", "ramAH",
+        "ramayA", "ramAByAm", "ramABiH",
+        "ramAyE", "ramAByAm", "ramAByaH",
+        "ramAyAH", "ramAByAm", "ramAByaH",
+        "ramAyAH", "ramayoH", "ramARAm",
+        "ramAyAm", "ramayoH", "ramAsu",
+        "rame", "rame", "ramAH"
+    ]
+  },
+
+  {
+    "stem": "sarvA",
+    "tags": ["Ap"],
+    "linga": "strI",
+    "padas": [
+        "sarvA", "sarve", "sarvAH",
+        "sarvAm", "sarve", "sarvAH",
+        "sarvayA", "sarvAByAm", "sarvABiH",
+        "sarvasyE", "sarvAByAm", "sarvAByaH",
+        "sarvasyAH", "sarvAByAm", "sarvAByaH",
+        "sarvasyAH", "sarvayoH", "sarvAsAm",
+        "sarvasyAm", "sarvayoH", "sarvAsu",
+        "sarve", "sarve", "sarvAH"
+    ]
+  },
+
+  {
+    "stem": "mati",
+    "linga": "strI",
+    "padas": [
+        "matiH", "matI", "matayaH",
+        "matim", "matI", "matIH",
+        "matyA", "matiByAm", "matiBiH",
+        "mataye/matyE", "matiByAm", "matiByaH",
+        "mateH/matyAH", "matiByAm", "matiByaH",
+        "mateH/matyAH", "matyoH", "matInAm",
+        "matO/matyAm", "matyoH", "matizu",
+        "mate", "matI", "matayaH"
+    ]
+  },
+
+  {
+    "stem": "nadI",
+    "tags": ["NI"],
+    "linga": "strI",
+    "padas": [
+        "nadI", "nadyO", "nadyaH",
+        "nadIm", "nadyO", "nadIH",
+        "nadyA", "nadIByAm", "nadIBiH",
+        "nadyE", "nadIByAm", "nadIByaH",
+        "nadyAH", "nadIByAm", "nadIByaH",
+        "nadyAH", "nadyoH", "nadInAm",
+        "nadyAm", "nadyoH", "nadIzu",
+        "nadi", "nadyO", "nadIH"
+    ]
+  },
+
+  {
+    "stem": "Denu",
+    "linga": "strI",
+    "padas": [
+        "DenuH", "DenU", "DenavaH",
+        "Denum", "DenU", "DenUH",
+        "DenvA", "DenuByAm", "DenuBiH",
+        "Denave/DenvE", "DenuByAm", "DenuByaH",
+        "DenoH/DenvAH", "DenuByAm", "DenuByaH",
+        "DenoH/DenvAH", "DenvoH", "DenUnAm",
+        "DenO/DenvAm", "DenvoH", "Denuzu",
+        "Deno", "DenU", "DenavaH"
+    ]
+  },
+
+  {
+    "stem": "vaDU",
+    "linga": "strI",
+    "padas": [
+        "vaDUH", "vaDvO", "vaDvaH",
+        "vaDUm", "vaDvO", "vaDUH",
+        "vaDvA", "vaDUByAm", "vaDUBiH",
+        "vaDvE", "vaDUByAm", "vaDUByaH",
+        "vaDvAH", "vaDUByAm", "vaDUByaH",
+        "vaDvAH", "vaDvoH", "vaDUnAm",
+        "vaDvAm", "vaDvoH", "vaDUzu",
+        "vaDu", "vaDvO", "vaDUH"
+    ]
+  },
+
+  {
+    "stem": "go",
+    "linga": "strI",
+    "padas": [
+        "gOH", "gAvO", "gAvaH",
+        "gAm", "gAvO", "gAH",
+        "gavA", "goByAm", "goBiH",
+        "gave", "goByAm", "goByaH",
+        "goH", "goByAm", "goByaH",
+        "goH", "gavoH", "gavAm",
+        "gavi", "gavoH", "gozu",
+        "gOH", "gAvO", "gAvaH"
+    ]
+  },
+
+  {
+    "stem": "dyo",
+    "linga": "strI",
+    "padas": [
+        "dyOH", "dyAvO", "dyAvaH",
+        "dyAm", "dyAvO", "dyAH",
+        "dyavA", "dyoByAm", "dyoBiH",
+        "dyave", "dyoByAm", "dyoByaH",
+        "dyoH", "dyoByAm", "dyoByaH",
+        "dyoH", "dyavoH", "dyavAm",
+        "dyavi", "dyavoH", "dyozu",
+        "dyOH", "dyAvO", "dyAvaH"
+    ]
+  },
+
+  {
+    "stem": "rE",
+    "linga": "strI",
+    "padas": [
+        "rAH", "rAyO", "rAyaH",
+        "rAyam", "rAyO", "rAyaH",
+        "rAyA", "rAByAm", "rABiH",
+        "rAye", "rAByAm", "rAByaH",
+        "rAyaH", "rAByAm", "rAByaH",
+        "rAyaH", "rAyoH", "rAyAm",
+        "rAyi", "rAyoH", "rAsu",
+        "rAH", "rAyO", "rAyaH"
+    ]
+  },
+
+  {
+    "stem": "nO",
+    "linga": "strI",
+    "padas": [
+        "nOH", "nAvO", "nAvaH",
+        "nAvam", "nAvO", "nAvaH",
+        "nAvA", "nOByAm", "nOBiH",
+        "nAve", "nOByAm", "nOByaH",
+        "nAvaH", "nOByAm", "nOByaH",
+        "nAvaH", "nAvoH", "nAvAm",
+        "nAvi", "nAvoH", "nOzu",
+        "nOH", "nAvO", "nAvaH"
+    ]
+  },
+
+  "~~~~~~~~~~~~~~~~",
+  "napuMsaka-linga",
+  "~~~~~~~~~~~~~~~~",
+
+  {
+    "stem": "Pala",
+    "linga": "napuMsaka",
+    "padas": [
+        "Palam", "Pale", "PalAni",
+        "Palam", "Pale", "PalAni",
+        "Palena", "PalAByAm", "PalEH",
+        "PalAya", "PalAByAm", "PaleByaH",
+        "PalAt", "PalAByAm", "PaleByaH",
+        "Palasya", "PalayoH", "PalAnAm",
+        "Pale", "PalayoH", "Palezu",
+        "Pala", "Pale", "PalAni"
+    ]
+  },
+
+  {
+    "stem": "puzpa",
+    "linga": "napuMsaka",
+    "padas": [
+        "puzpam", "puzpe", "puzpARi",
+        "puzpam", "puzpe", "puzpARi",
+        "puzpeRa", "puzpAByAm", "puzpEH",
+        "puzpAya", "puzpAByAm", "puzpeByaH",
+        "puzpAt", "puzpAByAm", "puzpeByaH",
+        "puzpasya", "puzpayoH", "puzpARAm",
+        "puzpe", "puzpayoH", "puzpezu",
+        "puzpa", "puzpe", "puzpARi"
+    ]
+  },
+
+  {
+    "stem": "sarva",
+    "linga": "napuMsaka",
+    "padas": [
+        "sarvam", "sarve", "sarvARi",
+        "sarvam", "sarve", "sarvARi",
+        "sarveRa", "sarvAByAm", "sarvEH",
+        "sarvasmE", "sarvAByAm", "sarveByaH",
+        "sarvasmAt/sarvasmAd", "sarvAByAm", "sarveByaH",
+        "sarvasya", "sarvayoH", "sarvezAm",
+        "sarvasmin", "sarvayoH", "sarvezu",
+        "sarva", "sarve", "sarvARi"
+    ]
+  },
+
+  {
+    "stem": "viSva",
+    "linga": "napuMsaka",
+    "padas": [
+        "viSvam", "viSve", "viSvAni",
+        "viSvam", "viSve", "viSvAni",
+        "viSvena", "viSvAByAm", "viSvEH",
+        "viSvasmE", "viSvAByAm", "viSveByaH",
+        "viSvasmAt/viSvasmAd", "viSvAByAm", "viSveByaH",
+        "viSvasya", "viSvayoH", "viSvezAm",
+        "viSvasmin", "viSvayoH", "viSvezu",
+        "viSva", "viSve", "viSvAni"
+    ]
+  },
+
+  {
+    "stem": "katara",
+    "tags": ["qatara"],
+    "linga": "napuMsaka",
+    "padas": [
+        "katarat/katarad", "katare", "katarARi",
+        "katarat/katarad", "katare", "katarARi",
+        "katareRa", "katarAByAm", "katarEH",
+        "katarasmE", "katarAByAm", "katareByaH",
+        "katarasmAt/katarasmAd", "katarAByAm", "katareByaH",
+        "katarasya", "katarayoH", "katarezAm",
+        "katarasmin", "katarayoH", "katarezu",
+        "katarat/katarad", "katare", "katarARi"
+    ]
+  },
+
+  {
+    "stem": "yatara",
+    "tags": ["qatara"],
+    "linga": "napuMsaka",
+    "padas": [
+        "yatarat/yatarad", "yatare", "yatarARi",
+        "yatarat/yatarad", "yatare", "yatarARi",
+        "yatareRa", "yatarAByAm", "yatarEH",
+        "yatarasmE", "yatarAByAm", "yatareByaH",
+        "yatarasmAt/yatarasmAd", "yatarAByAm", "yatareByaH",
+        "yatarasya", "yatarayoH", "yatarezAm",
+        "yatarasmin", "yatarayoH", "yatarezu",
+        "yatarat/yatarad", "yatare", "yatarARi"
+    ]
+  },
+
+  {
+    "stem": "tatara",
+    "tags": ["qatara"],
+    "linga": "napuMsaka",
+    "padas": [
+        "tatarat/tatarad", "tatare", "tatarARi",
+        "tatarat/tatarad", "tatare", "tatarARi",
+        "tatareRa", "tatarAByAm", "tatarEH",
+        "tatarasmE", "tatarAByAm", "tatareByaH",
+        "tatarasmAt/tatarasmAd", "tatarAByAm", "tatareByaH",
+        "tatarasya", "tatarayoH", "tatarezAm",
+        "tatarasmin", "tatarayoH", "tatarezu",
+        "tatarat/tatarad", "tatare", "tatarARi"
+    ]
+  },
+
+  {
+    "stem": "payas",
+    "linga": "napuMsaka",
+    "padas": [
+        "payaH", "payasI", "payAMsi",
+        "payaH", "payasI", "payAMsi",
+        "payasA", "payoByAm", "payoBiH",
+        "payase", "payoByAm", "payoByaH",
+        "payasaH", "payoByAm", "payoByaH",
+        "payasaH", "payasoH", "payasAm",
+        "payasi", "payasoH", "payaHsu/payassu",
+        "payaH", "payasI", "payAMsi"
+    ]
+  }
+
+]
