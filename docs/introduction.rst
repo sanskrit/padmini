@@ -104,7 +104,7 @@ How We Interpret Rules
 ----------------------
 
 In general, we follow the interpretations of the standard commentaries,
-especially the *Kāśikāvr̥tti* and the *Siddhāntakauudī*. https://ashtadhyayi.com
+especially the *Kāśikāvr̥tti* and the *Siddhāntakaumudī*. https://ashtadhyayi.com
 has been an enormous help in this regard.
 
 One small exception is that we have tended to prefer more straightforward
