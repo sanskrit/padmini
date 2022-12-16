@@ -1,9 +1,6 @@
 padmini (a Paninian word generator)
 ===================================
 
-[DO NOT SUBMIT PULL REQUESTS. Repository is unstable and the commit history
-will likely change through a force push.]
-
-License: MIT
-
-For details, see the documentation: https://padmini.readthedocs.io
+This project has been ported to Rust and is now deprecated. Our Rust project's
+temporary location is https://github.com/ambuda-org/vidyut-pada-snapshot. Once
+it is more stable, we will merge it into https://github.com/ambuda-org/vidyut.
